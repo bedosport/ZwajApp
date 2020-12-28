@@ -1,0 +1,126 @@
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.exe
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.deps.json
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.runtimeconfig.json
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.runtimeconfig.dev.json
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.pdb
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.csprojAssemblyReference.cache
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.AssemblyInfoInputs.cache
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.AssemblyInfo.cs
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.csproj.CoreCompileInputs.cache
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.RazorTargetAssemblyInfo.cache
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.csproj.CopyComplete
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\staticwebassets\ZwajApp.API.StaticWebAssets.Manifest.cache
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\staticwebassets\ZwajApp.API.StaticWebAssets.xml
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.pdb
+E:\Dot Net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.genruntimeconfig.cache
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Dot Net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.exe
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.deps.json
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.runtimeconfig.json
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.runtimeconfig.dev.json
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\ZwajApp.API.pdb
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.csprojAssemblyReference.cache
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.AssemblyInfoInputs.cache
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.AssemblyInfo.cs
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.csproj.CoreCompileInputs.cache
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.RazorTargetAssemblyInfo.cache
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.csproj.CopyComplete
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\staticwebassets\ZwajApp.API.StaticWebAssets.Manifest.cache
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\staticwebassets\ZwajApp.API.StaticWebAssets.xml
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.pdb
+E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.genruntimeconfig.cache
