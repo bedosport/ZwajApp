@@ -32,7 +32,7 @@
     <form (ngSubmit)="login()" #LoginForm = 'ngForm' class="form-inline d-flex mr-auto">
       <input name="username" required class="form-control me-1 m-2" [(ngModel)]="model.username" type="text" placeholder="User Name" aria-label="User Name">
       <input name="password" required class="form-control me-1 m-2" [(ngModel)]="model.password" type="password" placeholder="Password" aria-label="Password">
-      <button class="btn btn-outline-success m-2" type="submit">Login</button>
+      <button [disabled]="!LoginForm.valid" class="btn btn-outline-success m-2" type="submit">Login</button>
     </form>
   </div>
 </nav>
