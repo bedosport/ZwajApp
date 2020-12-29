@@ -124,3 +124,11 @@ E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\staticwebassets\Zwaj
 E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.dll
 E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.pdb
 E:\Asp.net Core\ZwajApp\ZwajApp.API\obj\Debug\netcoreapp3.1\ZwajApp.API.genruntimeconfig.cache
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Asp.net Core\ZwajApp\ZwajApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

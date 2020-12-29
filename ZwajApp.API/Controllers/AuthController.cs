@@ -6,6 +6,9 @@ using ZwajApp.API.Data;
 using ZwajApp.API.Dtos;
 using ZwajApp.API.Models;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.Extensions.Configuration;
+using System;
+using System.IdentityModel.Tokens.Jwt;
 
 namespace ZwajApp.API.Controllers
 {
@@ -14,39 +17,57 @@ namespace ZwajApp.API.Controllers
     public class AuthController : ControllerBase
     {
         private readonly IAuthRepository _repo;
-        public AuthController(IAuthRepository repo)
+        public IConfiguration _config { get; }
+        public AuthController(IAuthRepository repo, IConfiguration config)
         {
+            _config = config;
             _repo = repo;
 
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register(UserForRegisterDto userForRegisterDto){
+        public async Task<IActionResult> Register(UserForRegisterDto userForRegisterDto)
+        {
             userForRegisterDto.Username = userForRegisterDto.Username.ToLower();
-            if(await _repo.UserExists(userForRegisterDto.Username)){
+            if (await _repo.UserExists(userForRegisterDto.Username))
+            {
                 return BadRequest("This Username used before , try another one...!");
             }
-            var userToCreate = new User{
+            var userToCreate = new User
+            {
                 Username = userForRegisterDto.Username
             };
 
-            var CreatedUser = await _repo.Register(userToCreate , userForRegisterDto.Password);
+            var CreatedUser = await _repo.Register(userToCreate, userForRegisterDto.Password);
 
             return StatusCode(201);
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login(UserForLoginDto userForLoginDto){
-            var userFromRepo = await _repo.Login(userForLoginDto.username.ToLower(),userForLoginDto.password);
-            if(userFromRepo == null)
+        public async Task<IActionResult> Login(UserForLoginDto userForLoginDto)
+        {
+            var userFromRepo = await _repo.Login(userForLoginDto.username.ToLower(), userForLoginDto.password);
+            if (userFromRepo == null)
                 return Unauthorized();
 
-            var calims = new[] {
+            var claims = new[] {
                 new Claim(ClaimTypes.NameIdentifier,userFromRepo.Id.ToString()),
                 new Claim(ClaimTypes.Name,userFromRepo.Username)
             };
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes());
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config.GetSection("AppSettings:Token").Value));
+            var creds = new SigningCredentials(key , SecurityAlgorithms.HmacSha512);
+            var tokenDescripror = new SecurityTokenDescriptor{
+                Subject = new ClaimsIdentity(claims),
+                Expires = DateTime.Now.AddDays(1),
+                SigningCredentials = creds
+
+            };
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var token = tokenHandler.CreateToken(tokenDescripror);
+            return Ok(new {
+                token = tokenHandler.WriteToken(token)
+            });
         }
     }
 }
