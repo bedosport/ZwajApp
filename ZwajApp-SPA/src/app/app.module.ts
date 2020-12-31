@@ -8,6 +8,8 @@ import { HttpClientModule  } from '@angular/common/http';
 import { NavComponent } from './nav/nav.component';
 import { FormsModule } from "@angular/forms"
 import { AuthService } from './_services/auth.service';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { BsDropdownModule} from 'ngx-bootstrap/dropdown';
 
 @NgModule({
    declarations: [	
@@ -18,7 +20,10 @@ import { AuthService } from './_services/auth.service';
    imports: [
       BrowserModule,
       HttpClientModule,
-      FormsModule
+      FormsModule,
+      NgbModule,
+      BsDropdownModule,
+      HttpClient
    ],
    providers: [AuthService],
    bootstrap: [
